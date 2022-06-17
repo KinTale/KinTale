@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋, welcome to my GitHub!
 
-<!--
-**KinTale/KinTale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stack
 
-Here are some ideas to get you started:
+HTML | CSS | Javascript | React | Typescript | node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KinTale)](https://github.com/anuraghazra/github-readme-stats)
+
+### About Me
+
+- 🧑🏽‍💻 Junior Software Developer 
+- 👨🏽‍🎓 Recent Graduate from a full stack developer bootcamp with Boolean UK
+- 🔍 Looking for roles as a Junior Developer
+- 🎨 Ex makeup artist
+- 🌱 I’m currently learning React Native + Typescript and am beginning a "task manager" project 
+- 💡 I love learning new things and problem solving
+
